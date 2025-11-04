@@ -1,0 +1,1 @@
+# Entrega III — JavaScript Avançado (SPA)\n\nProjeto: Entrega HTML5 + CSS3 + JS (SPA e validação com toasts)\nAutor: Lil Fraga (@lilfraga3s)\n\nLink público esperado: https://lilfraga3s.github.io/entrega-html5-css3/\n\nArquivos JS: app.js, router.js, templates.js, validation.js, ui.js, masks.js\n
