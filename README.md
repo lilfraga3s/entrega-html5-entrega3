@@ -1,5 +1,5 @@
 # 🌐 Entrega III — HTML5, CSS3 e JavaScript Avançado (SPA)
-
+https://lilfraga3s.github.io/entrega-html5-entrega3/
 Repositório público da **Entrega III** da disciplina de Desenvolvimento Web.  
 Este projeto consolida as três etapas: **HTML5 (estrutura semântica)**, **CSS3 (design responsivo e sistema de design)** e **JavaScript (SPA e interatividade avançada)**.
 
